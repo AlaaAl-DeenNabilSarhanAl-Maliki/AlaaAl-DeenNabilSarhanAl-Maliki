@@ -1,16 +1,35 @@
-## Hi there ALAA 👋
+# 👋 Hi, I'm Alaa
 
-<!--
-**AlaaAl-DeenNabilSarhanAl-Maliki/AlaaAl-DeenNabilSarhanAl-Maliki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year student at Faculty of Computers and Artificial Intelligence  
+🏫 Cairo University  
+💻 Currently learning C++ and building my programming foundations  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Beginner programmer focused on strong fundamentals
+- 📚 Learning problem solving and algorithms step by step
+- 🎯 Goal: Become a highly skilled software engineer
+
+---
+
+## 🛠️ Currently Learning
+
+- C++
+- Problem Solving
+- Basic Data Structures
+- Competitive Programming fundamentals
+
+---
+
+## 📌 Goals for 2026
+
+- Master Fuondations of programming 
+- Solve 1000+ programming problems
+- Build small practical projects
+- Understand OOP,data structures ,Data Bases 
+
+
+
+⭐ “Strong foundations build strong engineers.”
